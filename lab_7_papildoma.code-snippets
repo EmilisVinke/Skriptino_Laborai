@@ -1,0 +1,27 @@
+{
+	//!--Emilis Vinkevicius EF-22/2-->
+   "Snippet example": {
+	   "prefix": "pu",
+	   "body": [
+		   "<!DOCTYPE html>",
+		   "<!--Emilis Vinkevicius EF-22/2-->"
+		   "<html lang=\"lt\">",
+		   "",
+		   "<head>",
+		   "  <meta charset=\"UTF-8\">",
+		   "  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">",
+		   "  <meta http-equiv=\"X-UA-Compatible\" content=\"ie=edge\">",
+		   "  <title>Papildoma</title>",
+		   "</head>",
+		   "",
+		   "<body>",
+		   "  <h1>šešios žąsys su šešiais žąsyčiais</h1>"
+		   "  <link></link>"
+		   "</body>",
+		   "",
+		   "</html>"
+	   ],
+	   "description": "Inserts basic HTML doc structure"
+   }
+
+}
