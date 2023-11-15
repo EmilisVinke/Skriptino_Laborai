@@ -1,0 +1,28 @@
+
+
+    body {
+        color: white;
+        background-image: url('VILNIUS TECH.jpg');
+        background-size: cover;
+    }
+    
+    .container {
+        display: flex;
+    }
+    
+ 
+    
+    .blue-strip {
+        background-color: rgba(7, 24, 118, 0.7);
+        padding: 20px;
+        text-align: left;
+        width: 100%;
+    }
+
+      
+      .blue-strip video,
+      .blue-strip audio,
+      .blue-strip iframe {
+        width: 33%; 
+        height: 300px;
+      }
